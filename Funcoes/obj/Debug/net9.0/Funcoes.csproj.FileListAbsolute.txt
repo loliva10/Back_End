@@ -1,0 +1,5 @@
+C:\Users\45600568894\Desktop\Back_End\Funcoes\obj\Debug\net9.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45600568894\Desktop\Back_End\Funcoes\obj\Debug\net9.0\Funcoes.AssemblyInfoInputs.cache
+C:\Users\45600568894\Desktop\Back_End\Funcoes\obj\Debug\net9.0\Funcoes.AssemblyInfo.cs
+C:\Users\45600568894\Desktop\Back_End\Funcoes\obj\Debug\net9.0\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\45600568894\Desktop\Back_End\Funcoes\obj\Debug\net9.0\Funcoes.sourcelink.json
