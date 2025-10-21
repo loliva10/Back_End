@@ -1,0 +1,15 @@
+C:\Users\45600568894\Desktop\Back_End\SalarioGasto\bin\Debug\net9.0\SalarioGasto.exe
+C:\Users\45600568894\Desktop\Back_End\SalarioGasto\bin\Debug\net9.0\SalarioGasto.deps.json
+C:\Users\45600568894\Desktop\Back_End\SalarioGasto\bin\Debug\net9.0\SalarioGasto.runtimeconfig.json
+C:\Users\45600568894\Desktop\Back_End\SalarioGasto\bin\Debug\net9.0\SalarioGasto.dll
+C:\Users\45600568894\Desktop\Back_End\SalarioGasto\bin\Debug\net9.0\SalarioGasto.pdb
+C:\Users\45600568894\Desktop\Back_End\SalarioGasto\obj\Debug\net9.0\SalarioGasto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45600568894\Desktop\Back_End\SalarioGasto\obj\Debug\net9.0\SalarioGasto.AssemblyInfoInputs.cache
+C:\Users\45600568894\Desktop\Back_End\SalarioGasto\obj\Debug\net9.0\SalarioGasto.AssemblyInfo.cs
+C:\Users\45600568894\Desktop\Back_End\SalarioGasto\obj\Debug\net9.0\SalarioGasto.csproj.CoreCompileInputs.cache
+C:\Users\45600568894\Desktop\Back_End\SalarioGasto\obj\Debug\net9.0\SalarioGasto.sourcelink.json
+C:\Users\45600568894\Desktop\Back_End\SalarioGasto\obj\Debug\net9.0\SalarioGasto.dll
+C:\Users\45600568894\Desktop\Back_End\SalarioGasto\obj\Debug\net9.0\refint\SalarioGasto.dll
+C:\Users\45600568894\Desktop\Back_End\SalarioGasto\obj\Debug\net9.0\SalarioGasto.pdb
+C:\Users\45600568894\Desktop\Back_End\SalarioGasto\obj\Debug\net9.0\SalarioGasto.genruntimeconfig.cache
+C:\Users\45600568894\Desktop\Back_End\SalarioGasto\obj\Debug\net9.0\ref\SalarioGasto.dll

@@ -1,0 +1,15 @@
+C:\Users\45600568894\Desktop\Back_End\MenuAlteracao\bin\Debug\net9.0\MenuAlteracao.exe
+C:\Users\45600568894\Desktop\Back_End\MenuAlteracao\bin\Debug\net9.0\MenuAlteracao.deps.json
+C:\Users\45600568894\Desktop\Back_End\MenuAlteracao\bin\Debug\net9.0\MenuAlteracao.runtimeconfig.json
+C:\Users\45600568894\Desktop\Back_End\MenuAlteracao\bin\Debug\net9.0\MenuAlteracao.dll
+C:\Users\45600568894\Desktop\Back_End\MenuAlteracao\bin\Debug\net9.0\MenuAlteracao.pdb
+C:\Users\45600568894\Desktop\Back_End\MenuAlteracao\obj\Debug\net9.0\MenuAlteracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45600568894\Desktop\Back_End\MenuAlteracao\obj\Debug\net9.0\MenuAlteracao.AssemblyInfoInputs.cache
+C:\Users\45600568894\Desktop\Back_End\MenuAlteracao\obj\Debug\net9.0\MenuAlteracao.AssemblyInfo.cs
+C:\Users\45600568894\Desktop\Back_End\MenuAlteracao\obj\Debug\net9.0\MenuAlteracao.csproj.CoreCompileInputs.cache
+C:\Users\45600568894\Desktop\Back_End\MenuAlteracao\obj\Debug\net9.0\MenuAlteracao.sourcelink.json
+C:\Users\45600568894\Desktop\Back_End\MenuAlteracao\obj\Debug\net9.0\MenuAlteracao.dll
+C:\Users\45600568894\Desktop\Back_End\MenuAlteracao\obj\Debug\net9.0\refint\MenuAlteracao.dll
+C:\Users\45600568894\Desktop\Back_End\MenuAlteracao\obj\Debug\net9.0\MenuAlteracao.pdb
+C:\Users\45600568894\Desktop\Back_End\MenuAlteracao\obj\Debug\net9.0\MenuAlteracao.genruntimeconfig.cache
+C:\Users\45600568894\Desktop\Back_End\MenuAlteracao\obj\Debug\net9.0\ref\MenuAlteracao.dll

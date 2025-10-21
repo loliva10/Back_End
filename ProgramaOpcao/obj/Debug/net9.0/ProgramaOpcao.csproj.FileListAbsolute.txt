@@ -1,0 +1,15 @@
+C:\Users\45600568894\Desktop\Back_End\ProgramaOpcao\bin\Debug\net9.0\ProgramaOpcao.exe
+C:\Users\45600568894\Desktop\Back_End\ProgramaOpcao\bin\Debug\net9.0\ProgramaOpcao.deps.json
+C:\Users\45600568894\Desktop\Back_End\ProgramaOpcao\bin\Debug\net9.0\ProgramaOpcao.runtimeconfig.json
+C:\Users\45600568894\Desktop\Back_End\ProgramaOpcao\bin\Debug\net9.0\ProgramaOpcao.dll
+C:\Users\45600568894\Desktop\Back_End\ProgramaOpcao\bin\Debug\net9.0\ProgramaOpcao.pdb
+C:\Users\45600568894\Desktop\Back_End\ProgramaOpcao\obj\Debug\net9.0\ProgramaOpcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45600568894\Desktop\Back_End\ProgramaOpcao\obj\Debug\net9.0\ProgramaOpcao.AssemblyInfoInputs.cache
+C:\Users\45600568894\Desktop\Back_End\ProgramaOpcao\obj\Debug\net9.0\ProgramaOpcao.AssemblyInfo.cs
+C:\Users\45600568894\Desktop\Back_End\ProgramaOpcao\obj\Debug\net9.0\ProgramaOpcao.csproj.CoreCompileInputs.cache
+C:\Users\45600568894\Desktop\Back_End\ProgramaOpcao\obj\Debug\net9.0\ProgramaOpcao.sourcelink.json
+C:\Users\45600568894\Desktop\Back_End\ProgramaOpcao\obj\Debug\net9.0\ProgramaOpcao.dll
+C:\Users\45600568894\Desktop\Back_End\ProgramaOpcao\obj\Debug\net9.0\refint\ProgramaOpcao.dll
+C:\Users\45600568894\Desktop\Back_End\ProgramaOpcao\obj\Debug\net9.0\ProgramaOpcao.pdb
+C:\Users\45600568894\Desktop\Back_End\ProgramaOpcao\obj\Debug\net9.0\ProgramaOpcao.genruntimeconfig.cache
+C:\Users\45600568894\Desktop\Back_End\ProgramaOpcao\obj\Debug\net9.0\ref\ProgramaOpcao.dll

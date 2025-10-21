@@ -1,0 +1,15 @@
+C:\Users\45600568894\Desktop\Back_End\MedidasTriangulo\bin\Debug\net9.0\MedidasTriangulo.exe
+C:\Users\45600568894\Desktop\Back_End\MedidasTriangulo\bin\Debug\net9.0\MedidasTriangulo.deps.json
+C:\Users\45600568894\Desktop\Back_End\MedidasTriangulo\bin\Debug\net9.0\MedidasTriangulo.runtimeconfig.json
+C:\Users\45600568894\Desktop\Back_End\MedidasTriangulo\bin\Debug\net9.0\MedidasTriangulo.dll
+C:\Users\45600568894\Desktop\Back_End\MedidasTriangulo\bin\Debug\net9.0\MedidasTriangulo.pdb
+C:\Users\45600568894\Desktop\Back_End\MedidasTriangulo\obj\Debug\net9.0\MedidasTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45600568894\Desktop\Back_End\MedidasTriangulo\obj\Debug\net9.0\MedidasTriangulo.AssemblyInfoInputs.cache
+C:\Users\45600568894\Desktop\Back_End\MedidasTriangulo\obj\Debug\net9.0\MedidasTriangulo.AssemblyInfo.cs
+C:\Users\45600568894\Desktop\Back_End\MedidasTriangulo\obj\Debug\net9.0\MedidasTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\45600568894\Desktop\Back_End\MedidasTriangulo\obj\Debug\net9.0\MedidasTriangulo.sourcelink.json
+C:\Users\45600568894\Desktop\Back_End\MedidasTriangulo\obj\Debug\net9.0\MedidasTriangulo.dll
+C:\Users\45600568894\Desktop\Back_End\MedidasTriangulo\obj\Debug\net9.0\refint\MedidasTriangulo.dll
+C:\Users\45600568894\Desktop\Back_End\MedidasTriangulo\obj\Debug\net9.0\MedidasTriangulo.pdb
+C:\Users\45600568894\Desktop\Back_End\MedidasTriangulo\obj\Debug\net9.0\MedidasTriangulo.genruntimeconfig.cache
+C:\Users\45600568894\Desktop\Back_End\MedidasTriangulo\obj\Debug\net9.0\ref\MedidasTriangulo.dll

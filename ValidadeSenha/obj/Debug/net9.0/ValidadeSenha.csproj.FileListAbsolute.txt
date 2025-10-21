@@ -1,0 +1,15 @@
+C:\Users\45600568894\Desktop\Back_End\ValidadeSenha\bin\Debug\net9.0\ValidadeSenha.exe
+C:\Users\45600568894\Desktop\Back_End\ValidadeSenha\bin\Debug\net9.0\ValidadeSenha.deps.json
+C:\Users\45600568894\Desktop\Back_End\ValidadeSenha\bin\Debug\net9.0\ValidadeSenha.runtimeconfig.json
+C:\Users\45600568894\Desktop\Back_End\ValidadeSenha\bin\Debug\net9.0\ValidadeSenha.dll
+C:\Users\45600568894\Desktop\Back_End\ValidadeSenha\bin\Debug\net9.0\ValidadeSenha.pdb
+C:\Users\45600568894\Desktop\Back_End\ValidadeSenha\obj\Debug\net9.0\ValidadeSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45600568894\Desktop\Back_End\ValidadeSenha\obj\Debug\net9.0\ValidadeSenha.AssemblyInfoInputs.cache
+C:\Users\45600568894\Desktop\Back_End\ValidadeSenha\obj\Debug\net9.0\ValidadeSenha.AssemblyInfo.cs
+C:\Users\45600568894\Desktop\Back_End\ValidadeSenha\obj\Debug\net9.0\ValidadeSenha.csproj.CoreCompileInputs.cache
+C:\Users\45600568894\Desktop\Back_End\ValidadeSenha\obj\Debug\net9.0\ValidadeSenha.sourcelink.json
+C:\Users\45600568894\Desktop\Back_End\ValidadeSenha\obj\Debug\net9.0\ValidadeSenha.dll
+C:\Users\45600568894\Desktop\Back_End\ValidadeSenha\obj\Debug\net9.0\refint\ValidadeSenha.dll
+C:\Users\45600568894\Desktop\Back_End\ValidadeSenha\obj\Debug\net9.0\ValidadeSenha.pdb
+C:\Users\45600568894\Desktop\Back_End\ValidadeSenha\obj\Debug\net9.0\ValidadeSenha.genruntimeconfig.cache
+C:\Users\45600568894\Desktop\Back_End\ValidadeSenha\obj\Debug\net9.0\ref\ValidadeSenha.dll

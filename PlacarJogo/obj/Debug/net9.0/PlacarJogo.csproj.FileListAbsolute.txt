@@ -1,0 +1,15 @@
+C:\Users\45600568894\Desktop\Back_End\PlacarJogo\bin\Debug\net9.0\PlacarJogo.exe
+C:\Users\45600568894\Desktop\Back_End\PlacarJogo\bin\Debug\net9.0\PlacarJogo.deps.json
+C:\Users\45600568894\Desktop\Back_End\PlacarJogo\bin\Debug\net9.0\PlacarJogo.runtimeconfig.json
+C:\Users\45600568894\Desktop\Back_End\PlacarJogo\bin\Debug\net9.0\PlacarJogo.dll
+C:\Users\45600568894\Desktop\Back_End\PlacarJogo\bin\Debug\net9.0\PlacarJogo.pdb
+C:\Users\45600568894\Desktop\Back_End\PlacarJogo\obj\Debug\net9.0\PlacarJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45600568894\Desktop\Back_End\PlacarJogo\obj\Debug\net9.0\PlacarJogo.AssemblyInfoInputs.cache
+C:\Users\45600568894\Desktop\Back_End\PlacarJogo\obj\Debug\net9.0\PlacarJogo.AssemblyInfo.cs
+C:\Users\45600568894\Desktop\Back_End\PlacarJogo\obj\Debug\net9.0\PlacarJogo.csproj.CoreCompileInputs.cache
+C:\Users\45600568894\Desktop\Back_End\PlacarJogo\obj\Debug\net9.0\PlacarJogo.sourcelink.json
+C:\Users\45600568894\Desktop\Back_End\PlacarJogo\obj\Debug\net9.0\PlacarJogo.dll
+C:\Users\45600568894\Desktop\Back_End\PlacarJogo\obj\Debug\net9.0\refint\PlacarJogo.dll
+C:\Users\45600568894\Desktop\Back_End\PlacarJogo\obj\Debug\net9.0\PlacarJogo.pdb
+C:\Users\45600568894\Desktop\Back_End\PlacarJogo\obj\Debug\net9.0\PlacarJogo.genruntimeconfig.cache
+C:\Users\45600568894\Desktop\Back_End\PlacarJogo\obj\Debug\net9.0\ref\PlacarJogo.dll
